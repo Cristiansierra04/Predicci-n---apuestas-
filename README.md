@@ -1,2 +1,2 @@
-# Predicci-n---apuestas-
+# Prediccion-apuestas
 Proyecto en desarrollo 
